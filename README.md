@@ -8,3 +8,5 @@
 - [Vecka 6 (v.40)](./journal/W6.md)
 - [Vecka 7 (v.41)](./journal/W7.md)
 - [Vecka 8 (v.42)](./journal/W8.md)
+
+**OBS:** En renskriven version av loggboken finns i PDF format [här](./journal/journal.pdf).
